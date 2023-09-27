@@ -1,0 +1,57 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Directory for compiled files
+/bin/
+/target/
+/out/
+/build/
+
+# IntelliJ IDEA specific files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse specific files
+*.metadata/
+*.settings/
+*.launch
+*.project
+*.classpath
+
+# NetBeans specific files
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Other common files
+*.log
+*.bak
+*.swp
+*.back
+*.merge
+*.patch
+*.rej
+*.orig
+
+# OS-specific ignores
+.DS_Store   # Mac OS X specific file
+Thumbs.db   # Windows image file cache
+Desktop.ini # Windows icon setting
+
+# Temporary files created by the JVM
+hs_err_pid*
+
+# Maven (common Java build tool) - Uncomment if you're using Maven
+#/target/
+
+# Gradle (common Java build tool) - Uncomment if you're using Gradle
+#/.gradle/
+#build/
